@@ -1,91 +1,57 @@
-# CS210-Project
-CS210 Final Project - 2023-2024 Fall
+# YouTube Data Analysis Project
 
-# A Youtube Story
-
-CS210 Project - İSMAİL ÇAKMAK
+## CS210 Project by İsmail Çakmak
 
 ---
 
-Merhabalar ben İsmail. Youtube hatırladığım kadarıyla hayatımda gerçek manada etkisi olan ve çok uzun yıllardır kullandığım ilk sosyal medya platformu.
+### Introduction
 
-Hala da en çok kullandığım platform olduğunu söyleyebilirim.
+Welcome to my CS210 Data Science Project, where I delve deep into my personal YouTube usage data. As one of my most used platforms, YouTube has been a significant part of my life for many years. This project reflects not just my interaction with YouTube but also how it intersects with various aspects of my daily routine, including academics and leisure.
 
-Bu sebeple 210 Data Science projemi de Youtube verim üzerinden yaptım.
+### Project Overview
 
-Aslında işin en zor kısmının youtube verimi çekmek olacağını düşünüyordum fakat chatgpt ile yazışmalar sonucunda öğrendim ki Google verilermizi bizimle paylaşıyormuş! Sağolsun. [google.takeout.com](http://google.takeout.com) üzerinden indirebiliyormuşuz.
+The primary goal of this project was to analyze my YouTube usage and derive insights into my viewing habits. I approached this by first extracting my YouTube data, then transforming it for analysis, and finally conducting a thorough examination of my viewing patterns.
 
-Ben de buradan indirdim.
+#### Data Extraction
 
-Google bu datayı html olarak paylaşıyor. Bu html dosyasını açınca şu şekilde bir görüntü ile karşılaştım :
+Interestingly, the journey began with the discovery that Google shares our data with us. I downloaded my YouTube data from [google.takeout.com](http://google.takeout.com) in HTML format.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0e407ed-95ed-4305-bcaa-5b7b8a8ab05e/e2266c4a-cbd1-4ff1-965a-fd2809ba089a/Untitled.png)
+#### Data Transformation
 
-Ardından veriyi csv ve dönüştürmek için beatifulsoup ile web scraping yaparak csv çevirdim :
+Upon receiving the data in HTML format, I used BeautifulSoup for web scraping, converting the data into a more manageable CSV format. This step was crucial to prepare the data for analysis.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0e407ed-95ed-4305-bcaa-5b7b8a8ab05e/2032ff15-8581-4279-a36c-b782eb27c09a/Untitled.png)
+#### Data Analysis
 
-Sonrasında da bu csvden dataframe çıkardım. Artık data science yapmaya hazırdım.
+With the data in a usable format, I proceeded to analyze my YouTube interactions. The analysis was conducted on two primary fronts:
 
-# Data Science
+1. **Video and Channel Preferences**: Identifying the most watched videos and frequently visited channels.
+2. **Usage Patterns**: Understanding how often I accessed YouTube and discerning patterns in my viewing habits across different times of the year.
 
-İlk olarak tabiki de en çok izlediğim kanalları ve videoları analiz ettim. 
+### Key Findings
 
-İşte en çok izlediğim 20 videonun sırası : 
+1. **Most Watched Videos and Channels**: The analysis revealed a diverse range of content, from educational videos related to my courses to entertainment and lifestyle channels.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0e407ed-95ed-4305-bcaa-5b7b8a8ab05e/530625a5-28d7-4949-a975-dd6f3520aa69/Untitled.png)
+2. **Usage Frequency**: In 2023, I found that I accessed YouTube approximately once every six days. This frequency likely reflects my study habits, given that this account is secondary.
 
-En üstteki video fark etmış, hem de açık ara önce, bu nedir mi ? Evet reklam 😀 
+3. **Viewing Patterns Over Time**: Contrary to my initial hypothesis that I watched more videos during the summer, the data showed higher activity during the fall months, particularly around midterms.
 
-[Calculate the cost of setting up your business in the UAE with our cost calculator | Decisive Zone](https://www.youtube.com/watch?v=qRLEvOTSrXo)
+### Visualizations
 
-Ardından gelen birçok video, (mathematical morphology, convolution, image processing) CS419 adlı dersi anlamak için verdiğim çabanın sonucu 😵‍💫
+The project includes several visual representations of the data:
 
-Arada ilginç bir video dikkatinizi çekmiş olabilir :D
+- Initial HTML Data Format
+- Transformed CSV Format
+- Most Watched Videos and Channels
+- Monthly Viewing Patterns for 2021, 2022, and 2023
 
-https://www.youtube.com/watch?v=u2TaHf_ZjIo
+### Conclusions
 
-Dedemin telefonuna kendi hesabımı bağladığım için sanıyorum, bu dedemin izlemesi. 
+The project led to some intriguing insights, particularly the influence of my academic schedule on my YouTube usage. While I initially assumed that leisure time in summer would correlate with increased YouTube activity, the data suggested a different story - my viewing peaked during the academic months, especially around midterms.
 
-Evet dedem yakın zamanda traktör aldı 😀
+### Future Work
 
-ama bu değildi. 
+This project opens up avenues for further exploration, such as correlating YouTube usage with academic performance, analyzing the impact of specific content types on my mood and productivity, or even extending the analysis to a larger demographic for broader insights.
 
-## En Çok izlediğim 20 Kanal
+---
 
-Ardından en çok izlediğim 20 kanala baktım ve şu şekilde olduğunu gördüm : 
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0e407ed-95ed-4305-bcaa-5b7b8a8ab05e/ca82315d-f671-4439-9793-e26d16c49a66/Untitled.png)
-
-Şu listeye bakan birinin, bu dönem aldığım dersleri çıkarabilir diye düşünüyorum. İlk sırada gelen kanal CS307 için izlediğim güzel bir kanal. 
-
-Ardından gelen fitfix ise tiktokdan aldığı videolara storytelling yapan bir entertaining kanalı, sanırım kafa dağıtmak için biraz fazla izlemişim : 
-
-[When Karma Strikes Back (@n7ckortiz)](https://www.youtube.com/shorts/vvWqKB5vvMw)
-
-Unutulmayan diziler ise arka sokaklar kesitleri izlediğim için bu listede sanıyorum 😀 
-
-Bu listeleri incelediğimde aslında Youtubeda ne kadar çok vakit geçirdiğimi anladım (2.hesabım olmasına ragmen)😀
-
-Yemek yerken izlediğim, ders çalışmak için izlediğim, kafa dağırmak için izlediğim, youtube hayatımı ele geçirmiş olabilir.
-
-Bu listeleri gördükten sonra şunu merak ettim :
-Youtube a ortalama kaç günde bir giriyorum acaba?
-
-## Youtube a ortalama kaç günde bir girme verim
-
-Ardından bunu öğrenmek için biraz daha veri bilimi yaptım ve sonuç şu şekilde çıktı :
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f0e407ed-95ed-4305-bcaa-5b7b8a8ab05e/ee9cd347-1d83-43a2-a89f-1c8d05e59088/Untitled.png)
-
-2023 te her 6 günde 1 youtuba girmişim. Bu hesabımın 2.hesabım olduğunu düşünürsek, aslında youtube a girdiğim gün muhtemelen çok daha düşük. Fakat bu sayılar ortalama kaç günde bir ders çalıştığımı ele veriyor gibi 😅
-
-En çok video izlediğim yıllar: 
-
-## En çok hangi aylar video izlemişim
-
-Ardından kendi hipotezim için en önemli yere geldim. Bu da hangi aylar kaç video izlediğim bilgisiydi. Benim hipotezim yazın daha çok video izlediğim yönündeydi. (çünkü yazın boş vaktim daha çok) : 
-
-Son yıldan başlayalım. 2023 için ay-ay izlediğim video sayısı şu şekilde:
-
-![output.png](https://prod-files-secure.s
+Thank you for exploring my CS210 YouTube Data Analysis Project. This journey has been not just an academic exercise but also a personal introspection into how digital platforms like YouTube influence our daily lives.
