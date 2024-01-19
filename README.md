@@ -57,7 +57,7 @@ The project includes several visual representations of the data:
 - Pie Chart Of Yearly Watch Count
 - Monthly Viewing Patterns for 2021, 2022, and 2023
 
-[1](distrubutionofyears.png)
+[1](website images/distrubutionofyears.png)
 
 ## Limitations and future work
 
