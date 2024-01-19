@@ -29,14 +29,15 @@ Upon receiving the data in HTML format, I used BeautifulSoup for web scraping, c
 #### Data Analysis
 
 With the data in a usable format, I proceeded to analyze my YouTube interactions. The analysis was conducted on two primary fronts:
-
-- I used Matplotlib and Seaborn libraries to create a horizontal bar chart displaying the top 20 most-watched channels, top 20 most-watched video from a DataFrame.
-- I computed the average number of days between YouTube visits for each year by accumulating the total number of days elapsed between each viewing session and then dividing this total by the count of days when YouTube was accessed, yielding a yearly average re-entry period.
-- I created a pie chart to illustrate the distribution of videos watched across different years, as recorded in the DataFrame.
-- I filtered the data in my DataFrame to include only entries from 2023 and then extracted and categorized the month names from the 'Date of Watch' column. Using this data, I created a bar chart to visually represent the number of videos I watched each month in 2023/2022/2021, with customized axis labels, title, and angled month labels for clarity.
-
 1. **Video and Channel Preferences**: Identifying the most watched videos and frequently visited channels.
 2. **Usage Patterns**: Understanding how often I accessed YouTube and discerning patterns in my viewing habits across different times of the year.
+
+
+I used Matplotlib and Seaborn libraries to create a horizontal bar chart displaying the top 20 most-watched channels, top 20 most-watched video from a DataFrame.
+I computed the average number of days between YouTube visits for each year by accumulating the total number of days elapsed between each viewing session and then dividing this total by the count of days when YouTube was accessed, yielding a yearly average re-entry period.
+I created a pie chart to illustrate the distribution of videos watched across different years, as recorded in the DataFrame.
+I filtered the data in my DataFrame to include only entries from 2023 and then extracted and categorized the month names from the 'Date of Watch' column. Using this data, I created a bar chart to visually represent the number of videos I watched each month in 2023/2022/2021, with customized axis labels, title, and angled month labels for clarity.
+
 
 ## Findings
 
