@@ -15,7 +15,7 @@ The primary goal of this project was to analyze my YouTube usage and derive insi
 
 #### Data Extraction
 
-Interestingly, the journey began with the discovery that Google shares our data with us. I downloaded my YouTube data from [Visit Example.com](https://www.example.com)
+Interestingly, the journey began with the discovery that Google shares our data with us. I downloaded my YouTube data from [Visit Example.com](https://takeout.google.com/settings/takeout)
 
  in HTML format. 
 
