@@ -1,6 +1,6 @@
 # YouTube Data Analysis Project - İsmail Çakmak
 
-<img align="left" width="90" height="160" src="banner2.png">
+<img align="left" width="450" height="800" src="banner2.png">
 
 
 ### For Presentation : Check my website [Website](https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4)  
