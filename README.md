@@ -16,6 +16,10 @@ Welcome to my CS210 Data Science Project, where I delve deep into my personal Yo
 
 
 
+
+
+
+
 ### Project Overview
 
 The primary goal of this project was to analyze my YouTube usage and derive insights into my viewing habits. I approached this by first extracting my YouTube data, then transforming it for analysis, and finally conducting a thorough examination of my viewing patterns.
