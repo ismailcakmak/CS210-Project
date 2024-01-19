@@ -1,4 +1,4 @@
-[A Youtube Story]("https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4")
+[Website]("https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4")
 
 # YouTube Data Analysis Project - İsmail Çakmak
 
