@@ -1,7 +1,7 @@
 # YouTube Data Analysis Project - İsmail Çakmak
 
 
-> [!IMPORTANT]  
+[A Youtube Story]("https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4")
 
 ## Introduction
 
@@ -11,7 +11,6 @@ Welcome to my CS210 Data Science Project, where I delve deep into my personal Yo
 
 
 
-[A Youtube Story]("https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4")
 
 
 ## Project Overview
