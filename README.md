@@ -2,7 +2,17 @@
 
 ## CS210 Project by İsmail Çakmak
 
-![My Example Image](/banner.png)
+<table>
+  <tr>
+    <td>
+      ![Alt text for image](banner.jpg)
+    </td>
+    <td>
+      Your text goes here. This can be a detailed description of the image, or any content that you wish to display alongside the image.
+    </td>
+  </tr>
+</table>
+
 
 
 ---
@@ -51,10 +61,5 @@ The project includes several visual representations of the data:
 
 The project led to some intriguing insights, particularly the influence of my academic schedule on my YouTube usage. While I initially assumed that leisure time in summer would correlate with increased YouTube activity, the data suggested a different story - my viewing peaked during the academic months, especially around midterms.
 
-### Future Work
-
-This project opens up avenues for further exploration, such as correlating YouTube usage with academic performance, analyzing the impact of specific content types on my mood and productivity, or even extending the analysis to a larger demographic for broader insights.
-
 ---
 
-Thank you for exploring my CS210 YouTube Data Analysis Project. This journey has been not just an academic exercise but also a personal introspection into how digital platforms like YouTube influence our daily lives.
