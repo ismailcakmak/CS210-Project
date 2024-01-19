@@ -1,7 +1,4 @@
 
-
-# YouTube Data Analysis Project - İsmail Çakmak
-
 # YouTube Data Analysis Project - İsmail Çakmak
 
 <div>
