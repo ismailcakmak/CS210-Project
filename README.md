@@ -2,20 +2,8 @@
 
 ## CS210 Project by İsmail Çakmak
 
-<table>
-  <tr>
-    <td>
-      ![Alt text for image](banner.png)
-    </td>
-    <td>
-      Your text goes here. This can be a detailed description of the image, or any content that you wish to display alongside the image.
-    </td>
-  </tr>
-</table>
+![image](banner.png){: style="float: left"}
 
-
-
----
 
 ### Introduction
 
