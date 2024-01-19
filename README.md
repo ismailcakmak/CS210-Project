@@ -2,7 +2,7 @@
 
 ## CS210 Project by İsmail Çakmak
 
-<img align="left" width="600" height="400" src="banner.png">
+<img align="left" width="400" height="400" src="banner.png">
 
 
 ### For Presentation : check my website [Website](https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4)  
