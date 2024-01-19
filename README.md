@@ -1,6 +1,4 @@
-# YouTube Data Analysis Project
-
-## CS210 Project by İsmail Çakmak
+# YouTube Data Analysis Project - İsmail Çakmak
 
 <img align="left" width="400" height="400" src="banner.png">
 
