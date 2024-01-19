@@ -2,7 +2,7 @@
 # YouTube Data Analysis Project - İsmail Çakmak
 
 <div>
-  <img src="banner.png" width="600" height="600" align="left" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="banner.png"  align="left" style="margin-right: 20px; margin-bottom: 20px;">
   <div>
     <h3>For Presentation</h3>
     <p>Check my website <a href="https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4">Website</a></p>
