@@ -57,8 +57,6 @@ The project includes several visual representations of the data:
 - Pie Chart Of Yearly Watch Count
 - Monthly Viewing Patterns for 2021, 2022, and 2023
 
-[1](website images//distrubutionofyears.png)
-
 ## Limitations and future work
 
 The project led to some intriguing insights, particularly the influence of my academic schedule on my YouTube usage. While I initially assumed that leisure time in summer would correlate with increased YouTube activity, the data suggested a different story - my viewing peaked during the academic months, especially around midterms. In the future I am planning analysing each video by its sentiment and content value, categorise them as educational, entertainment, lifestlye. So that I can analyse.
