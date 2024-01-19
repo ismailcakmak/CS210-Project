@@ -54,7 +54,10 @@ The project includes several visual representations of the data:
 - Initial HTML Data Format
 - Transformed CSV Format
 - Most Watched Videos and Channels
+- Pie Chart Of Yearly Watch Count
 - Monthly Viewing Patterns for 2021, 2022, and 2023
+
+[1](distrubutionofyears.png)
 
 ## Limitations and future work
 
