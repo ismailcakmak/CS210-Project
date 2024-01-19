@@ -2,6 +2,9 @@
 
 ## CS210 Project by İsmail Çakmak
 
+![My Example Image](/banner.png)
+
+
 ---
 
 ### Introduction
