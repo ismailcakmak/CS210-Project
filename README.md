@@ -2,7 +2,7 @@
 
 ## CS210 Project by İsmail Çakmak
 
-<img align="left" width="100" height="100" src="banner.png">
+<img align="left" width="400" height="400" src="banner.png">
 
 
 
