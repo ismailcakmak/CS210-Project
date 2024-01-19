@@ -49,7 +49,7 @@ With the data in a usable format, I proceeded to analyze my YouTube interactions
 
 ## Visualizations
 
-The project includes several visual representations of the data:
+The project includes several visual representations of the data: (see them in website)
 
 - Initial HTML Data Format
 - Transformed CSV Format
