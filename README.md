@@ -2,7 +2,7 @@
 
 ## CS210 Project by İsmail Çakmak
 
-![image](banner.png){: style="float: left"}
+<img src="banner.png" alt="drawing" style="width:200px;"/>
 
 
 ### Introduction
