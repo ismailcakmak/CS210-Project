@@ -15,8 +15,6 @@
 
 ### Introduction
 
-
-
 Welcome to my CS210 Data Science Project, where I delve deep into my personal YouTube usage data. As one of my most used platforms, YouTube has been a significant part of my life for many years. This project reflects not just my interaction with YouTube but also how it intersects with various aspects of my daily routine, including academics and leisure.
 
 
