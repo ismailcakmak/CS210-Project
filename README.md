@@ -5,8 +5,6 @@
   <div>
     <h3>For Presentation</h3>
     <p>Check my website <a href="https://ismailcakmak.notion.site/A-Youtube-Story-0c08fbf0cc12490eb25765003b1d4c1c?pvs=4">Website</a></p>
-    <h3>For Report</h3>
-    <p>This Readme File</p>
   </div>
 </div>
 
